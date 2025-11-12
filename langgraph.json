@@ -1,7 +1,7 @@
 {
     "dockerfile_lines": [],
     "graphs": {
-      "Strands Agent": "./strands_agent.py:graph"
+      "Strands Agent": "./strands_agent_functional_api.py:graph"
      },
     "env": ".env",
     "dependencies": [
