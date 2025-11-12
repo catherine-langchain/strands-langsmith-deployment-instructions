@@ -1,6 +1,6 @@
 ## Setting up Deployment & Tracing for Strands Agents on LangSmith Deployments
 
-This project demonstrates how to deploy and trace an example strands agent to LangSmith. 
+LangSmith Deployment offers framework agnostic support to deploying agents across all frameworks. This project demonstrates how to deploy and trace an example strands agent to LangSmith. 
 
 ### Clone the repo
 ```
@@ -28,4 +28,4 @@ $ langgraph dev --allow-blocking
 ```
 
 ### Deploy the agent to LSD 
-You can follow the notebook `strands_lsd_walkthrough.ipynb` on building and steps to deploy the agent
+You can follow the notebook `strands_functional_api_walkthrough.ipynb` on building and steps to deploy the agent
